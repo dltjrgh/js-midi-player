@@ -1,5 +1,3 @@
-
-
 function MIDIPlayer(fileinput,onload) {
     
     var audioContext = null;
